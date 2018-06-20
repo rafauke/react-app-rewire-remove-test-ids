@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-remove-test-ids",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add babel-plugin-remove-test-ids babel plugin to create-react-app using react-app-rewired",
   "files": [
     "index.js",
