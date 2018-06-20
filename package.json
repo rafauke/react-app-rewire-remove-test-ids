@@ -17,8 +17,10 @@
   ],
   "author": "Rafał Wyszomirski",
   "license": "MIT",
-  "peerDependencies": {
-    "react-app-rewired": "^1.2.7",
+  "dependencies": {
     "babel-plugin-remove-test-ids": "^1.1.0"
+  },
+  "peerDependencies": {
+    "react-app-rewired": "^1.2.7"
   }
 }
