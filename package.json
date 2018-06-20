@@ -1,0 +1,24 @@
+{
+  "name": "react-app-rewire-remove-test-ids",
+  "version": "1.0.0",
+  "description": "Add babel-plugin-remove-test-ids babel plugin to create-react-app using react-app-rewired",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "babel-plugin-remove-test-ids",
+    "create-react-app",
+    "e2e",
+    "testing",
+    "react-app-rewire-remove-test-ids",
+    "react-app-rewired"
+  ],
+  "author": "Rafał Wyszomirski",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-app-rewired": "^1.2.7",
+    "babel-plugin-remove-test-ids": "^1.1.0"
+  }
+}
