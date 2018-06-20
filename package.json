@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-remove-test-ids",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add babel-plugin-remove-test-ids babel plugin to create-react-app using react-app-rewired",
   "files": [
     "index.js",
@@ -17,8 +17,10 @@
   ],
   "author": "Rafał Wyszomirski",
   "license": "MIT",
-  "peerDependencies": {
-    "react-app-rewired": "^1.2.7",
+  "dependencies": {
     "babel-plugin-remove-test-ids": "^1.1.0"
+  },
+  "peerDependencies": {
+    "react-app-rewired": "^1.2.7"
   }
 }
